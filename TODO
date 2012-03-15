@@ -1,0 +1,9 @@
+• set up toggleable 3rd, 2nd and 1st person camera conrol
+• wasd/mouse movement
+• basic physics: add jump/gravity, simple momentum
+• create a standard UI, health bar, consumable volumes, contextual menus
+• create some simple character models (then elaborate)
+• collison detection
+• lighting
+• modeling hedges in place of boxes (add textures, color more complex shapes)
+• cel shading
